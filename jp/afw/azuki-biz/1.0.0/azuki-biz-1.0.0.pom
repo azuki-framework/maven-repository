@@ -17,12 +17,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>jp.afw</groupId>
-	<artifactId>azuki-base</artifactId>
+	<artifactId>azuki-biz</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>azuki-base</name>
-	<url>https://github.com/azuki-framework/azuki-base</url>
+	<name>azuki-biz</name>
+	<url>https://github.com/azuki-framework/azuki-biz</url>
 
 	<distributionManagement>
 		<repository>
@@ -39,23 +39,18 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>log4j</groupId>
-			<artifactId>log4j</artifactId>
-			<version>1.2.17</version>
+			<groupId>jp.afw</groupId>
+			<artifactId>azuki-base</artifactId>
+			<version>1.0.0</version>
 		</dependency>
 		<dependency>
-			<groupId>org.apache.commons</groupId>
-			<artifactId>commons-digester3</artifactId>
-			<version>3.2</version>
+			<groupId>org.apache.ant</groupId>
+			<artifactId>ant</artifactId>
+			<version>1.9.2</version>
 		</dependency>
 		<dependency>
-			<groupId>commons-pool</groupId>
-			<artifactId>commons-pool</artifactId>
-			<version>1.6</version>
-		</dependency>
-		<dependency>
-			<groupId>commons-dbcp</groupId>
-			<artifactId>commons-dbcp</artifactId>
+			<groupId>javax.mail</groupId>
+			<artifactId>mail</artifactId>
 			<version>1.4</version>
 		</dependency>
 
@@ -105,5 +100,4 @@
 			</plugin>
 		</plugins>
 	</build>
-	
 </project>
