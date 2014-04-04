@@ -21,6 +21,9 @@
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
+	<name>azuki-base</name>
+	<url>https://github.com/azuki-framework/azuki-base</url>
+
 	<distributionManagement>
 		<repository>
 			<id>internal.repo</id>
@@ -29,14 +32,11 @@
 		</repository>
 	</distributionManagement>
 
-	<name>azuki-base</name>
-	<url>https://github.com/azuki-framework/azuki-base</url>
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 		<!-- github server corresponds to entry in ~/.m2/settings.xml -->
-		<github.global.server>github</github.global.server>
+		<github.global.server>azuki-framework.github</github.global.server>
 	</properties>
 
 	<dependencies>
