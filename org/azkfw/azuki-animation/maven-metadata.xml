@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.azkfw</groupId>
+  <artifactId>azuki-animation</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140519040259</lastUpdated>
+  </versioning>
+</metadata>
