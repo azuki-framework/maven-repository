@@ -3,9 +3,10 @@
   <groupId>org.azkfw</groupId>
   <artifactId>azuki-job</artifactId>
   <versioning>
+    <release>1.0.0</release>
     <versions>
-      <version>1.0.0-SNAPSHOT</version>
+      <version>1.0.0</version>
     </versions>
-    <lastUpdated>20140519034216</lastUpdated>
+    <lastUpdated>20140528042926</lastUpdated>
   </versioning>
 </metadata>
