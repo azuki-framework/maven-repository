@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.azkfw</groupId>
+  <artifactId>azuki-chart</artifactId>
+  <version>1.4.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140822.080052</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140822080052</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.4.0-20140822.080052-1</value>
+        <updated>20140822080052</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.4.0-20140822.080052-1</value>
+        <updated>20140822080052</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
