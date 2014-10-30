@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>org.azkfw</groupId>
-  <artifactId>azuki-toolbox</artifactId>
+  <artifactId>azuki-gui</artifactId>
   <version>0.2.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20141030.062556</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20141030.062518</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20141030062556</lastUpdated>
+    <lastUpdated>20141030062518</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.2.2-20141030.062556-2</value>
-        <updated>20141030062556</updated>
+        <value>0.2.2-20141030.062518-1</value>
+        <updated>20141030062518</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.2.2-20141030.062556-2</value>
-        <updated>20141030062556</updated>
+        <value>0.2.2-20141030.062518-1</value>
+        <updated>20141030062518</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
