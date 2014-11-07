@@ -3,14 +3,15 @@
   <groupId>org.azkfw</groupId>
   <artifactId>azuki-graphics</artifactId>
   <versioning>
-    <release>1.4.2</release>
+    <release>1.4.3</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
       <version>1.4.0-SNAPSHOT</version>
       <version>1.4.1</version>
       <version>1.4.2</version>
+      <version>1.4.3</version>
     </versions>
-    <lastUpdated>20141107011823</lastUpdated>
+    <lastUpdated>20141107030102</lastUpdated>
   </versioning>
 </metadata>
