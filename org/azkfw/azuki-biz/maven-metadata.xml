@@ -3,7 +3,7 @@
   <groupId>org.azkfw</groupId>
   <artifactId>azuki-biz</artifactId>
   <versioning>
-    <release>1.4.1</release>
+    <release>1.4.4</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0-SNAPSHOT</version>
@@ -14,7 +14,8 @@
       <version>1.4.0-SNAPSHOT</version>
       <version>1.4.0</version>
       <version>1.4.1</version>
+      <version>1.4.4</version>
     </versions>
-    <lastUpdated>20141107041112</lastUpdated>
+    <lastUpdated>20150126143830</lastUpdated>
   </versioning>
 </metadata>
