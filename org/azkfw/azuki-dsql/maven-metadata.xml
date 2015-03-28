@@ -3,12 +3,13 @@
   <groupId>org.azkfw</groupId>
   <artifactId>azuki-dsql</artifactId>
   <versioning>
-    <release>1.4.4</release>
+    <release>1.4.5</release>
     <versions>
       <version>1.4.2</version>
       <version>1.4.3</version>
       <version>1.4.4</version>
+      <version>1.4.5</version>
     </versions>
-    <lastUpdated>20150211073543</lastUpdated>
+    <lastUpdated>20150328140731</lastUpdated>
   </versioning>
 </metadata>
